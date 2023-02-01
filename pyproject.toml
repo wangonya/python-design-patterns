@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "python-design-patterns"
+version = "0.1.0"
+description = ""
+authors = ["wangonya <kwangonya@gmail.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
